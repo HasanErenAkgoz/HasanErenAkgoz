@@ -1,10 +1,10 @@
-### Herkese Merhaba 👋
+### Hi There 👋
+<p>I am Hasan Eren Akgöz. I am a young software developer who has been interested in software for over 5 years. Below you can find some small information about me</p>
 
-<h3> Benimle İletişime Geçebileceğiniz Platformlar </h3>
-
+<h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/erenakgoz/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hasanerenakgz@gmail.com" target="_blank" rel="nofollow"><img alt="Eren's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <h3>Kullandığım Teknolojiler ve Araçlar</h3>
+ <h3>Technologies and tools I use</h3>
  
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/></img>
