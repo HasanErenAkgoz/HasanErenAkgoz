@@ -1,4 +1,4 @@
-### Herkese Merhaba, ben Hasan Eren Akgöz 👋
+### Herkese Merhaba 👋
 
 <h3> Benimle İletişime Geçebileceğiniz Platformlar </h3>
 
