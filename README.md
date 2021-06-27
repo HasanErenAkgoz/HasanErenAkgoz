@@ -1,5 +1,5 @@
 ### Hi There 👋
-<p>I am Hasan Eren Akgöz. I am a young software developer who has been interested in software for over 5 years. Below you can find some small information about me</p>
+<p>I'm  Hasan Eren Akgöz. I am a young software developer who has been interested in software for over 5 years. Below you can find some small information about me</p>
 
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/erenakgoz/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
