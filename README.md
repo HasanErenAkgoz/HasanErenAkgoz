@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm Hasan Eren Akgöz, a passionate young software developer with over 5 years of experience. My journey in software development has led me to explore and master a wide range of technologies and tools.
+I am a software developer who continuously strives to improve in the field. The database programming education I received in high school allowed me to participate in desktop, web, and robotics projects. At university, I studied Computer Programming and Management Information Systems, specializing in technologies like .NET, Angular, and T-SQL. Throughout my career, I have proven my ability to adapt quickly to new challenges and produce high-quality solutions
 
 ## 📫 Contact Me
 
